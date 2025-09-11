@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <h1>Hi, I'm Dharani 👋</h1>
-  <h3>MERN Stack Developer | UI/UX Enthusiast</h3>
+  <h3>MERN Stack Developer</h3>
 </div>
 
 ---
@@ -64,25 +64,18 @@
 ---
 
 ## 🔗 Project Links
-- [Login App (Frontend)](https://login-mernstack.vercel.app/)
-- [API Backend](https://your-backend.onrender.com)
+- [EduElevate (Frontend)](https://eduelevate.vercel.app/)
+- [Mern Authentication (FullStack)](https://login-mernstack.vercel.app/)
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharani-malairaj&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharani-malairaj&layout=compact&theme=radical" height="150"/>
-</div>
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/dharani-malairaj-b9873629b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:dharanimalairaj26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
