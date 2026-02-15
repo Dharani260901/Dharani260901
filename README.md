@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+
   <h1>Hi, I'm Dharani 👋</h1>
   <h3>MERN Stack Developer</h3>
 </div>
